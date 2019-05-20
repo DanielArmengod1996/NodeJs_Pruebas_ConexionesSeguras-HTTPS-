@@ -1,4 +1,4 @@
-const url = 'https://api.telegram.org/bot744288029:AAHikTZ2Esa_wejAvdHp0OkMNSwjOxRc6m8/getUpdates';
+const url = 'https://api.telegram.org/bot<ID_BOT>:<TOKEN>/getUpdates';
 
 const https = require('https');
 
